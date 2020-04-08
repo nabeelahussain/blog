@@ -38,11 +38,11 @@ main:
 
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/art3.jpeg
+    image: /img/modern-art1.jpeg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/art2.jpeg
+    image: /img/modern-art2.jpeg
   image3:
     alt: Coffee beans
-    image: /img/art1.jpeg
+    image: /img/modern-art3.jpeg
 ---
