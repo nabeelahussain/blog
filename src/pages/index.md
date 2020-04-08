@@ -1,16 +1,20 @@
 ---
 templateKey: index-page
-title: About Me
+title: Nabeela Hussain
 image: /img/untitled-design-7-.png
 heading: All About Me
-subheading: Support sustainable farming while enjoying a cup
+subheading: Digital Content and Production Manager
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Background
+  description: >+
+    Experienced Digital Production Manager with a demonstrated history of
+    working in the Tech and Marketing industry. Skilled in Analytics, Sales,
+    Communication, Customer Relationship Management, Project Management and
+    Innovative Solutions. Strong arts and design professional with a PGCert
+    International Education focused in International and Comparative Education
+    from University of Birmingham. A strong passion for software development has
+    led to great achievements in the Tech industry. 
+
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
