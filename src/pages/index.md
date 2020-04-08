@@ -6,15 +6,14 @@ heading: All About Me
 subheading: Digital Content and Production Manager
 mainpitch:
   title: Background
-  description: >+
+  description: >
     Experienced Digital Production Manager with a demonstrated history of
-    working in the Tech and Marketing industry. Skilled in Analytics, Sales,
-    Communication, Customer Relationship Management, Project Management and
-    Innovative Solutions. Strong arts and design professional with a PGCert
+    working in the SAAS and Marketing industry. Skilled in analytics, sales,
+    communication, customer relationship management, project management and
+    innovative solutions. Strong arts and design professional with a PGCert
     International Education focused in International and Comparative Education
     from University of Birmingham. A strong passion for software development has
-    led to great achievements in the Tech industry. 
-
+    led to great achievements in the tech industry.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
