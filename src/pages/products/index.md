@@ -1,14 +1,13 @@
 ---
-templateKey: 'product-page'
+heading: 'Artwork '
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+templateKey: product-page
+title: ART - PAINTINGS
+image: /img/art4.jpeg
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  I have been a keen artist since a young age, working with different mediums 
+  and media  to express passions. I studied Fine Art and Design at GCSE and
+  later pursued it as an Alevel, achieving recognition at art exhibitions.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -71,26 +70,25 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Become a Patron
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Make a donation to my journey as an artist and get personalised merchandise
+    inspired by paintings or a painting itself.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: 'Crew Neck T-Shirt '
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - Different Design Every 3 Months
+        - Limited Edition + free UK Delivery
+        - Comes in S M L & XL
+      plan: Wear the Art
+      price: '40'
+    - description: Get a canvas painted the month of of the donation.
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
+        - One of a kind painting on canvas
+        - Selection from a study that year
+        - Includes free UK postage
+      plan: Hang the Art
+      price: '90'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
