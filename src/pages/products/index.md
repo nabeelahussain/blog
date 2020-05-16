@@ -7,93 +7,64 @@ image: /img/art4.jpeg
 description: >-
   I have been a keen artist since a young age, working with different mediums 
   and media  to express passions. I studied Fine Art and Design at GCSE and
-  later pursued it as an Alevel, achieving recognition at art exhibitions.
+  later pursued it as an Alevel, achieving recognition at art exhibitions. I now
+  create commissioned pieces of artwork and designs.  
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    - image: /img/modern-art1.jpeg
+      text: '  '
+    - image: /img/modern-art3.jpeg
+      text: '  '
+    - image: /img/modern-art2.jpeg
+      text: |2-
+
+          
+    - image: /img/whatsapp-image-2020-04-22-at-20.14.09-1-.jpeg
+      text: |2
+          
+  heading: ' '
+  description: '  '
 main:
-  heading: Great coffee with no compromises
+  heading: Inspiration always falls from the journey of colours
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    See the blog for  posts on art journeys, poetry, short stories, creative
+    projects and tech.  
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: '  '
+    image: /img/whatsapp-image-2020-04-22-at-20.13.58.jpeg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: '  '
+    image: /img/whatsapp-image-2020-04-22-at-20.14.15.jpeg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+    alt: '   '
+    image: /img/whatsapp-image-2020-04-22-at-20.14.08.jpeg
+testimonials: []
+full_image: /img/website-banner.png
 pricing:
   heading: Become a Patron
   description: >-
     Make a donation to my journey as an artist and get personalised merchandise
-    inspired by paintings or a painting itself.
+    inspired by designs/paintings or a painting itself.
   plans:
-    - description: 'Crew Neck T-Shirt '
+    - description: 'Stand out and wear something different -Crew Neck T-Shirt '
       items:
         - Different Design Every 3 Months
         - Limited Edition + free UK Delivery
         - Comes in S M L & XL
       plan: Wear the Art
       price: '40'
-    - description: Get a canvas painted the month of of the donation.
+    - description: Perfect for the home or an office - Painted canvas
       items:
         - One of a kind painting on canvas
         - Selection from a study that year
         - Includes free UK postage
       plan: Hang the Art
       price: '90'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: 'Want something specially made for you -Get in touch for a quote. '
       items:
         - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
+        - Worldwide shipping
+        - Full updates on the art journey
+      plan: 'Commissioned Art '
       price: '??'
 ---
