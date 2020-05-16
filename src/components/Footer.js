@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 
 import logo from '../img/logo.svg'
 import instagram from '../img/social/instagram.svg'
+import linkedin from '../img/social/linkedin.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -65,6 +66,13 @@ const Footer = class extends React.Component {
                   <img
                     src={instagram}
                     alt="Instagram"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a title="linkedin" href="https://www.linkedin.com/in/nabeela-hussain/">
+                  <img
+                    src={linkedin}
+                    alt="LinkedIn"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
