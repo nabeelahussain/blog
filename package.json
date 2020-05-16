@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-netlify-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
+  "name": "nabeela-personal-site",
+  "description": "Nabeela Hussain's Personal Site",
   "version": "1.1.3",
-  "author": "Austin Green",
+  "author": "Nabeela Hussain",
   "dependencies": {
     "bulma": "^0.8.0",
     "gatsby": "^2.13.31",
