@@ -21,7 +21,7 @@ intro:
   blurbs:
     - image: /img/home-jumbotron.jpg
       text: Copywriting & Digital Content
-    - image: /img/designer_-2-.svg
+    - image: /img/art4.jpeg
       text: Graphic Design & Artwork
     - image: /img/user_interface_.svg
       text: |
