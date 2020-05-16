@@ -16,12 +16,9 @@ intro:
     - image: /img/modern-art3.jpeg
       text: '  '
     - image: /img/modern-art2.jpeg
-      text: |2-
-
-          
+      text: '  '
     - image: /img/whatsapp-image-2020-04-22-at-20.14.09-1-.jpeg
-      text: |2
-          
+      text: '  '
   heading: ' '
   description: '  '
 main:
