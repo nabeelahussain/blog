@@ -19,7 +19,7 @@ description: >-
   These are the key areas I can support and advise in.
 intro:
   blurbs:
-    - image: /img/digital-content.svg
+    - image: /img/digital-content.png
       text: Copywriting & Digital Content
     - image: /img/graphic-designer.png
       text: Graphic Design & Artwork
@@ -33,7 +33,7 @@ intro:
       text: 'SEO, Social Media and Email Marketing'
     - image: /img/data-analysis.png
       text: Data analysis
-    - image: /img/html-1-.svg
+    - image: /img/web-development.png
       text: Front-End Web Development
     - text: Photography
       image: /img/photography.png
