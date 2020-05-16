@@ -2,7 +2,7 @@
 heading: 'Artwork '
 path: /products
 templateKey: product-page
-title: ART - PAINTINGS
+title: ARTWORK
 image: /img/art4.jpeg
 description: >-
   I have been a keen artist since a young age, working with different mediums 
