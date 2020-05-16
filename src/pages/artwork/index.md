@@ -1,7 +1,7 @@
 ---
 heading: 'Artwork '
-path: /products
-templateKey: product-page
+path: /artwork
+templateKey: artwork-page
 title: ARTWORK
 image: /img/art4.jpeg
 description: >-
