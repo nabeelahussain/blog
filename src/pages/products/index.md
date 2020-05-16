@@ -35,7 +35,6 @@ main:
   image3:
     alt: '   '
     image: /img/whatsapp-image-2020-04-22-at-20.14.08.jpeg
-testimonials: []
 full_image: /img/website-banner.png
 pricing:
   heading: Become a Patron
