@@ -19,9 +19,9 @@ description: >-
   These are the key areas I can support and advise in.
 intro:
   blurbs:
-    - image: /img/home-jumbotron.jpg
+    - image: /img/digital-content.svg
       text: Copywriting & Digital Content
-    - image: /img/art4.jpeg
+    - image: /img/logo.svg
       text: Graphic Design & Artwork
     - image: /img/user_interface_.svg
       text: |
