@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Nabeela Hussain',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Nabeela Hussain\'s creative projects showcasing a range of art, short stories and poetry. Get in touch for any enqiuries!',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
