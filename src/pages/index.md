@@ -16,7 +16,7 @@ mainpitch:
     led to great achievements in the tech industry.
 description: >-
   I offer a range of services to match my expertise in the creative markets.
-  These are the key areas I can support and advise in.
+  These are the key areas I can offer support and consult in.
 intro:
   blurbs:
     - image: /img/digital-content.png
