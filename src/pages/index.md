@@ -19,16 +19,22 @@ description: >-
   These are the key areas I can support and advise in.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: Copywriting
-    - image: /img/coffee-gear.png
-      text: Graphic Design
-    - image: /img/tutorials.png
+    - image: /img/_digital_content.svg
+      text: Copywriting & Digital Content
+    - image: /img/designer_-2-.svg
+      text: Graphic Design & Artwork
+    - image: /img/user_interface_.svg
       text: |
-        UX and UI
-    - image: /img/meeting-space.png
+        UX/UI & Web Design
+    - image: /img/product_manager-3-.svg
       text: |
-        Project Management
+        Project and Product Management
+    - image: /img/social_media-1-.svg
+      text: 'SEO, Social Media and Email Marketing'
+    - image: /img/data_analysis_-1-.svg
+      text: Data analysis
+    - image: /img/html-1-.svg
+      text: Front-End Web Development
   heading: What we offer
   description: |
     COPYWRITING
