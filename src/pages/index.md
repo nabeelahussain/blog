@@ -45,12 +45,12 @@ main:
   description: |+
 
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: ' '
     image: /img/modern-art1.jpeg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: ' '
     image: /img/modern-art2.jpeg
   image3:
-    alt: Coffee beans
+    alt: ' '
     image: /img/modern-art3.jpeg
 ---
