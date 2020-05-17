@@ -10,6 +10,8 @@ const FeatureGrid = ({ gridItems }) => (
         <p
             style={{
                 textAlign: 'center',
+                fontSize: '20px',
+                color: '#ed4133',
               }}
               >{item.text}</p>
           <div className="has-text-centered">
