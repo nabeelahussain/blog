@@ -28,7 +28,7 @@ intro:
         UX/UI & Web Design
     - image: /img/project-manager.png
       text: |
-        Project and Product Management
+        Project & Product Management
     - image: /img/digital-marketing.png
       text: 'SEO, Social Media and Email Marketing'
     - image: /img/data-analysis.png
