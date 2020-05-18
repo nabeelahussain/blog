@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Nabeela Hussain
-image: /img/website-banner-image.png
+image: /img/nabs-banner-image.png
 heading: Expertise
 subheading: Digital Content and Production Manager
 mainpitch:
