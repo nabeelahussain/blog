@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Nabeela Hussain
-image: /img/website-banner-blog-front.png
+image: /img/nabs-dev-banner-image.png
 heading: Expertise
 subheading: Digital Content and Production Manager
 mainpitch:
@@ -30,7 +30,7 @@ intro:
       text: |
         Project & Product Management
     - image: /img/digital-marketing.png
-      text: 'SEO, Social Media and Email Marketing'
+      text: 'SEO, Social Media & Email Marketing'
     - image: /img/data-analysis.png
       text: Data analysis
     - image: /img/web-development.png
