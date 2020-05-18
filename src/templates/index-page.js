@@ -72,7 +72,8 @@ export const IndexPageTemplate = ({
                 <div className="content">
                   <div className="tile">
                     <h1 className="title" style={{
-                      marginBottom: '0.5em !important'
+                      marginBottom: '0.5em !important',
+                      color: '#0e0422',
                     }}>{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
