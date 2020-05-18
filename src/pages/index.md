@@ -30,7 +30,7 @@ intro:
       text: |
         Project & Product Management
     - image: /img/digital-marketing.png
-      text: 'SEO, Social Media and Email Marketing'
+      text: 'SEO, Social Media & Email Marketing'
     - image: /img/data-analysis.png
       text: Data analysis
     - image: /img/web-development.png
