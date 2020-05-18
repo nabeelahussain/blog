@@ -83,7 +83,7 @@ export const IndexPageTemplate = ({
                 <div className="columns">
                   <div className="column is-12">
                     <h1 className="title" style={{
-                      marginBottom: '0.5em !important'
+                      marginBottom: '0.5em !important',
                       color: '#0e0422',
                     }}>
                       {heading}
