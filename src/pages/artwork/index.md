@@ -3,7 +3,7 @@ heading: 'Artwork '
 path: /artwork
 templateKey: artwork-page
 title: ARTWORK
-image: /img/art4.jpeg
+image: /img/art-banner-image.jpg
 description: >-
   I have been a keen artist since a young age, working with different mediums 
   and media  to express passions. I studied Fine Art and Design at GCSE and
